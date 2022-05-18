@@ -1,15 +1,5 @@
 <template>
   <footer>
-    <div>
-      <div class="copyright">
-        Design & Code by
-        <a href="https://github.com/qier222">qier222</a>
-      </div>
-      <div class="api">
-        Weather data from
-        <a href="https://openweathermap.org/">OpenWeatherMap</a>
-      </div>
-    </div>
   </footer>
 </template>
 
