@@ -1,7 +1,7 @@
 <template>
   <header>
     <div class="logo">
-      <img src="@/assets/images/cloud-sun.svg" /> Moeyy Weather
+      <img src="@/assets/images/cloud-sun.svg" /> -MLJ- Weather
     </div>
   </header>
 </template>
