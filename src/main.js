@@ -10,7 +10,7 @@ Vue.config.productionTip = false;
 Vue.use(Vuex);
 
 if (localStorage.getItem('cities') === null) {
-  let defaultCities = ["Shanghai","Guangzhou","Shenzhen"];
+  let defaultCities = ["Shanghai", "Guangzhou", "Shenzhen"];
   if (document.documentElement.clientWidth <= 824) {
     defaultCities = ["Shanghai"]
   }
