@@ -14,5 +14,6 @@ yarn build
 需要添加环境变量
 
 NODE_OPTIONS = --openssl-legacy-provider
+API_KEY = Your-OpenWeather-API_KEK
 
  
