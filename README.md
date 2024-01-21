@@ -9,3 +9,10 @@ yarn install
 yarn serve
 yarn build
 ```
+## Vercel 部署
+
+需要添加环境变量
+
+NODE_OPTIONS = --openssl-legacy-provider
+
+ 
